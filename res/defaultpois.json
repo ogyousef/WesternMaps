@@ -1,0 +1,618 @@
+[
+	{
+		"id": 1000,
+		"x": 202,
+		"y": 551,
+		"building": "Middlesex College",
+		"floor": 1,
+		"metadata": "Staircase access from floor 1."
+	},
+	{
+		"id": 1001,
+		"x": 340,
+		"y": 500,
+		"building": "Middlesex College",
+		"floor": 1,
+		"metadata": "Staircase access from floor 1."
+	},
+	{
+		"id": 1002,
+		"x": 743,
+		"y": 383,
+		"building": "Middlesex College",
+		"floor": 1,
+		"metadata": "Staircase access from floor 1."
+	},
+	{
+		"id": 1003,
+		"x": 202,
+		"y": 552,
+		"building": "Middlesex College",
+		"floor": 2,
+		"metadata": "Staircase access from floor 2."
+	},
+	{
+		"id": 1004,
+		"x": 348,
+		"y": 511,
+		"building": "Middlesex College",
+		"floor": 2,
+		"metadata": "Staircase access from floor 2."
+	},
+	{
+		"id": 1005,
+		"x": 750,
+		"y": 380,
+		"building": "Middlesex College",
+		"floor": 2,
+		"metadata": "Staircase access from floor 2."
+	},
+	{
+		"id": 1006,
+		"x": 1062,
+		"y": 576,
+		"building": "Middlesex College",
+		"floor": 2,
+		"metadata": "Staircase access from floor 2."
+	},
+	{
+		"id": 1007,
+		"x": 202,
+		"y": 552,
+		"building": "Middlesex College",
+		"floor": 3,
+		"metadata": "Staircase access from floor 3."
+	},
+	{
+		"id": 1008,
+		"x": 348,
+		"y": 511,
+		"building": "Middlesex College",
+		"floor": 3,
+		"metadata": "Staircase access from floor 3."
+	},
+	{
+		"id": 1009,
+		"x": 750,
+		"y": 380,
+		"building": "Middlesex College",
+		"floor": 3,
+		"metadata": "Staircase access from floor 3."
+	},
+	{
+		"id": 1010,
+		"x": 1062,
+		"y": 576,
+		"building": "Middlesex College",
+		"floor": 3,
+		"metadata": "Staircase access from floor 3."
+	},
+	{
+		"id": 1011,
+		"x": 202,
+		"y": 552,
+		"building": "Middlesex College",
+		"floor": 4,
+		"metadata": "Staircase access from floor 4."
+	},
+	{
+		"id": 1012,
+		"x": 348,
+		"y": 511,
+		"building": "Middlesex College",
+		"floor": 4,
+		"metadata": "Staircase access from floor 4."
+	},
+	{
+		"id": 1013,
+		"x": 750,
+		"y": 380,
+		"building": "Middlesex College",
+		"floor": 4,
+		"metadata": "Staircase access from floor 4."
+	},
+	{
+		"id": 1014,
+		"x": 1062,
+		"y": 576,
+		"building": "Middlesex College",
+		"floor": 4,
+		"metadata": "Staircase access from floor 4."
+	},
+	{
+		"id": 1015,
+		"x": 750,
+		"y": 380,
+		"building": "Middlesex College",
+		"floor": 5,
+		"metadata": "Staircase access from floor 5."
+	},
+	{
+		"id": 1016,
+		"x": 1062,
+		"y": 576,
+		"building": "Middlesex College",
+		"floor": 5,
+		"metadata": "Staircase access from floor 5."
+	},
+	{
+		"id": 1017,
+		"x": 555,
+		"y": 406,
+		"building": "Middlesex College",
+		"floor": 1,
+		"metadata": "Male washroom on floor 1."
+	},
+	{
+		"id": 1018,
+		"x": 588,
+		"y": 394,
+		"building": "Middlesex College",
+		"floor": 1,
+		"metadata": "Female washroom on floor 1."
+	},
+	{
+		"id": 1019,
+		"x": 968,
+		"y": 522,
+		"building": "Middlesex College",
+		"floor": 1,
+		"metadata": "Accessibility washroom on floor 1."
+	},
+	{
+		"id": 1020,
+		"x": 563,
+		"y": 351,
+		"building": "Middlesex College",
+		"floor": 1,
+		"metadata": "Accessibility washroom on floor 1."
+	},
+	{
+		"id": 1021,
+		"x": 550,
+		"y": 390,
+		"building": "Middlesex College",
+		"floor": 2,
+		"metadata": "Male washroom on floor 2."
+	},
+	{
+		"id": 1022,
+		"x": 972,
+		"y": 527,
+		"building": "Middlesex College",
+		"floor": 2,
+		"metadata": "Female washroom on floor 2."
+	},
+	{
+		"id": 1023,
+		"x": 556,
+		"y": 391,
+		"building": "Middlesex College",
+		"floor": 3,
+		"metadata": "Female washroom on floor 3."
+	},
+	{
+		"id": 1024,
+		"x": 972,
+		"y": 523,
+		"building": "Middlesex College",
+		"floor": 3,
+		"metadata": "Accessibility washroom on floor 3."
+	},
+	{
+		"id": 1025,
+		"x": 785,
+		"y": 402,
+		"building": "Middlesex College",
+		"floor": 4,
+		"metadata": "Female washroom of floor 4."
+	},
+	{
+		"id": 1026,
+		"x": 550,
+		"y": 388,
+		"building": "Middlesex College",
+		"floor": 4,
+		"metadata": "Male washroom on floor 4."
+	},
+	{
+		"id": 1027,
+		"x": 382,
+		"y": 367,
+		"building": "Middlesex College",
+		"floor": 3,
+		"metadata": "Computer science laboratory room 240."
+	},
+	{
+		"id": 1028,
+		"x": 236,
+		"y": 428,
+		"building": "Middlesex College",
+		"floor": 3,
+		"metadata": "Computer science laboratory room 235."
+	},
+	{
+		"id": 1029,
+		"x": 197,
+		"y": 466,
+		"building": "Middlesex College",
+		"floor": 3,
+		"metadata": "Computer science laboratory room 230."
+	},
+	{
+		"id": 1030,
+		"x": 511,
+		"y": 296,
+		"building": "Middlesex College",
+		"floor": 4,
+		"metadata": "Computer science laboratory on floor 4."
+	},
+	{
+		"id": 1031,
+		"x": 706,
+		"y": 350,
+		"building": "Middlesex College",
+		"floor": 1,
+		"metadata": "Elevator access from floor 1."
+	},
+	{
+		"id": 1032,
+		"x": 950,
+		"y": 500,
+		"building": "Middlesex College",
+		"floor": 1,
+		"metadata": "Elevator access from floor 1."
+	},
+	{
+		"id": 1033,
+		"x": 706,
+		"y": 350,
+		"building": "Middlesex College",
+		"floor": 2,
+		"metadata": "Elevator access from floor 2."
+	},
+	{
+		"id": 1034,
+		"x": 950,
+		"y": 500,
+		"building": "Middlesex College",
+		"floor": 2,
+		"metadata": "Elevator access from floor 2."
+	},
+	{
+		"id": 1035,
+		"x": 706,
+		"y": 350,
+		"building": "Middlesex College",
+		"floor": 3,
+		"metadata": "Elevator access from floor 3."
+	},
+	{
+		"id": 1036,
+		"x": 950,
+		"y": 500,
+		"building": "Middlesex College",
+		"floor": 3,
+		"metadata": "Elevator access from floor 3."
+	},
+	{
+		"id": 1074,
+		"x": 305,
+		"y": 526,
+		"building": "Middlesex College",
+		"floor": 3,
+		"metadata": "Collaborative space room 220."
+	},
+	{
+		"id": 1075,
+		"x": 315,
+		"y": 440,
+		"building": "Middlesex College",
+		"floor": 3,
+		"metadata": "Collaborative space room 239."
+	},
+	{
+		"id": 1037,
+		"x": 706,
+		"y": 350,
+		"building": "Middlesex College",
+		"floor": 4,
+		"metadata": "Elevator access from floor 4."
+	},
+	{
+		"id": 1038,
+		"x": 950,
+		"y": 500,
+		"building": "Middlesex College",
+		"floor": 4,
+		"metadata": "Elevator access from floor 4."
+	},
+	{
+		"id": 1076,
+		"x": 291,
+		"y": 549,
+		"building": "Middlesex College",
+		"floor": 4,
+		"metadata": "Collaborative space room 325."
+	},
+	{
+		"id": 1039,
+		"x": 950,
+		"y": 500,
+		"building": "Middlesex College",
+		"floor": 5,
+		"metadata": "Elevator access from floor 5."
+	},
+	{
+		"id": 1040,
+		"x": 354,
+		"y": 214,
+		"building": "Alumni Hall",
+		"floor": 1,
+		"metadata": "Staircase access from floor 1."
+	},
+	{
+		"id": 1041,
+		"x": 362,
+		"y": 590,
+		"building": "Alumni Hall",
+		"floor": 1,
+		"metadata": "Staircase access from floor 1."
+	},
+	{
+		"id": 1042,
+		"x": 643,
+		"y": 125,
+		"building": "Alumni Hall",
+		"floor": 1,
+		"metadata": "Staircase access from floor 1."
+	},
+	{
+		"id": 1043,
+		"x": 650,
+		"y": 677,
+		"building": "Alumni Hall",
+		"floor": 1,
+		"metadata": "Staircase access from floor 1."
+	},
+	{
+		"id": 1044,
+		"x": 354,
+		"y": 214,
+		"building": "Alumni Hall",
+		"floor": 2,
+		"metadata": "Staircase access from floor 2."
+	},
+	{
+		"id": 1045,
+		"x": 362,
+		"y": 590,
+		"building": "Alumni Hall",
+		"floor": 2,
+		"metadata": "Staircase access from floor 2."
+	},
+	{
+		"id": 1046,
+		"x": 643,
+		"y": 125,
+		"building": "Alumni Hall",
+		"floor": 2,
+		"metadata": "Staircase access from floor 2."
+	},
+	{
+		"id": 1047,
+		"x": 650,
+		"y": 677,
+		"building": "Alumni Hall",
+		"floor": 2,
+		"metadata": "Staircase access from floor 2."
+	},
+	{
+		"id": 1048,
+		"x": 354,
+		"y": 214,
+		"building": "Alumni Hall",
+		"floor": 3,
+		"metadata": "Staircase access from floor 3."
+	},
+	{
+		"id": 1049,
+		"x": 362,
+		"y": 590,
+		"building": "Alumni Hall",
+		"floor": 3,
+		"metadata": "Staircase access from floor 3."
+	},
+	{
+		"id": 1050,
+		"x": 650,
+		"y": 120,
+		"building": "Alumni Hall",
+		"floor": 3,
+		"metadata": "Staircase access from floor 3."
+	},
+	{
+		"id": 1051,
+		"x": 650,
+		"y": 677,
+		"building": "Alumni Hall",
+		"floor": 3,
+		"metadata": "Staircase access from floor 3."
+	},
+	{
+		"id": 1052,
+		"x": 657,
+		"y": 575,
+		"building": "Alumni Hall",
+		"floor": 1,
+		"metadata": "Male washroom on floor 1."
+	},
+	{
+		"id": 1053,
+		"x": 664,
+		"y": 529,
+		"building": "Alumni Hall",
+		"floor": 1,
+		"metadata": "Female washroom on floor 1."
+	},
+	{
+		"id": 1054,
+		"x": 424,
+		"y": 366,
+		"building": "Alumni Hall",
+		"floor": 2,
+		"metadata": "Male washroom on floor 2."
+	},
+	{
+		"id": 1055,
+		"x": 576,
+		"y": 247,
+		"building": "Alumni Hall",
+		"floor": 2,
+		"metadata": "Male washroom on floor 2."
+	},
+	{
+		"id": 1056,
+		"x": 575,
+		"y": 546,
+		"building": "Alumni Hall",
+		"floor": 2,
+		"metadata": "Female washroom on floor 1."
+	},
+	{
+		"id": 1057,
+		"x": 592,
+		"y": 241,
+		"building": "Alumni Hall",
+		"floor": 2,
+		"metadata": "Male accessibility washroom on floor 1."
+	},
+	{
+		"id": 1058,
+		"x": 602,
+		"y": 546,
+		"building": "Alumni Hall",
+		"floor": 2,
+		"metadata": "Female accessibility washroom on floor 1."
+	},
+	{
+		"id": 1059,
+		"x": 500,
+		"y": 190,
+		"building": "Alumni Hall",
+		"floor": 1,
+		"metadata": "Elevator access from floor 1."
+	},
+	{
+		"id": 1060,
+		"x": 500,
+		"y": 190,
+		"building": "Alumni Hall",
+		"floor": 2,
+		"metadata": "Elevator access from floor 2."
+	},
+	{
+		"id": 1061,
+		"x": 510,
+		"y": 190,
+		"building": "Alumni Hall",
+		"floor": 3,
+		"metadata": "Elevator access from floor 3."
+	},
+	{
+		"id": 1062,
+		"x": 459,
+		"y": 526,
+		"building": "TD Stadium",
+		"floor": 1,
+		"metadata": "Staircase access from floor 1."
+	},
+	{
+		"id": 1063,
+		"x": 648,
+		"y": 548,
+		"building": "TD Stadium",
+		"floor": 1,
+		"metadata": "Staircase access from floor 1."
+	},
+	{
+		"id": 1064,
+		"x": 441,
+		"y": 541,
+		"building": "TD Stadium",
+		"floor": 2,
+		"metadata": "Staircase access from floor 2."
+	},
+	{
+		"id": 1065,
+		"x": 613,
+		"y": 520,
+		"building": "TD Stadium",
+		"floor": 2,
+		"metadata": "Staircase access from floor 2."
+	},
+	{
+		"id": 1066,
+		"x": 459,
+		"y": 526,
+		"building": "TD Stadium",
+		"floor": 1,
+		"metadata": "Staircase access from floor 1."
+	},
+	{
+		"id": 1067,
+		"x": 310,
+		"y": 377,
+		"building": "TD Stadium",
+		"floor": 1,
+		"metadata": "Male washroom on floor 1."
+	},
+	{
+		"id": 1068,
+		"x": 790,
+		"y": 381,
+		"building": "TD Stadium",
+		"floor": 1,
+		"metadata": "Male washroom on floor 1."
+	},
+	{
+		"id": 1069,
+		"x": 328,
+		"y": 300,
+		"building": "TD Stadium",
+		"floor": 1,
+		"metadata": "Female washroom on floor 1."
+	},
+	{
+		"id": 1070,
+		"x": 770,
+		"y": 300,
+		"building": "TD Stadium",
+		"floor": 1,
+		"metadata": "Female washroom on floor 1."
+	},
+	{
+		"id": 1071,
+		"x": 668,
+		"y": 497,
+		"building": "TD Stadium",
+		"floor": 1,
+		"metadata": "Elevator access on floor 1."
+	},
+	{
+		"id": 1072,
+		"x": 629,
+		"y": 500,
+		"building": "TD Stadium",
+		"floor": 2,
+		"metadata": "Elevator access on floor 2."
+	},
+	{
+		"id": 1073,
+		"x": 700,
+		"y": 442,
+		"building": "TD Stadium",
+		"floor": 2,
+		"metadata": "Accessibility access on floor 2."
+	}
+]
